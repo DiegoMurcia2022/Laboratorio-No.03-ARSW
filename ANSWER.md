@@ -11,5 +11,3 @@ Integrantes:
    
    Esto sucede debido a que no se está sacando el mayor provecho de la CPU y por lo tanto hace gran gasto de ella,
    y las clases responsables son Consumer y Producer.
-   
-2. 
