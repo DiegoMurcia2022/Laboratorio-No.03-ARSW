@@ -10,6 +10,6 @@ Integrantes:
     ![](/img/Monitor_Parte01.png)
    
    Esto sucede debido a que no se está sacando el mayor provecho de la CPU y por lo tanto hace gran gasto de ella,
-   y las clases responasables son Consumer y Producer.
+   y las clases responsables son Consumer y Producer.
    
 2. 
